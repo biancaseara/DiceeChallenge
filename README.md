@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/biancaseara/DiceeChallenge/refs/heads/main/images/dicee-demo.png" alt="Dicee Game Demo" width="700"/>
+  <img src="https://raw.githubusercontent.com/biancaseara/DiceeChallenge/refs/heads/main/images/demo.png" alt="Dicee Game Demo" width="700"/>
 </p>
 
 ## ✨ About The Project
