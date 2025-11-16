@@ -15,8 +15,8 @@ function rollDice() {
     const heading = document.querySelector('h1');
     
     // Setting the images according to the random number
-    player1.setAttribute('src', `images/dice${randomNumber1}.png`);
-    player2.setAttribute('src', `images/dice${randomNumber2}.png`);
+    player1.setAttribute('src', `assets/images/dice${randomNumber1}.png`);
+    player2.setAttribute('src', `assets/images/dice${randomNumber2}.png`);
     
     // Determining the winner and updating the heading
     if (randomNumber1 > randomNumber2) {
